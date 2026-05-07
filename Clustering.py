@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
-DATA_PATH = "data/mall_customers.csv"
+DATA_PATH = "data/Mall_customers.csv"
 FEATURES = ["Age", "Annual Income (k$)", "Spending Score (1-100)"]
 
 
